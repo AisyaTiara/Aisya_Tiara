@@ -1,0 +1,20 @@
+.hero {
+    background: url('gambar/5.jpg') center/cover; 
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4E3b20;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.footer {
+    background: #222;
+    color: white;
+    padding: 15px 0;
+}
